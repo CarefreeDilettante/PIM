@@ -1,1 +1,1 @@
-# PIM
+# Przetwarzanie informacji multimedialnej
